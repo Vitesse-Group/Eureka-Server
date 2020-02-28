@@ -5,6 +5,7 @@ target/
 !**/src/test/**
 
 ### STS ###
+bin/
 .apt_generated
 .classpath
 .factorypath
@@ -14,12 +15,14 @@ target/
 .sts4-cache
 
 ### IntelliJ IDEA ###
+bin/
 .idea
 *.iws
 *.iml
 *.ipr
 
 ### NetBeans ###
+bin/
 /nbproject/private/
 /nbbuild/
 /dist/
@@ -28,4 +31,6 @@ target/
 build/
 
 ### VS Code ###
+bin/
 .vscode/
+/.metadata/
